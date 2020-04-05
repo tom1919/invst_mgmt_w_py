@@ -3,7 +3,7 @@
 #Do not change, these are ipython notebook demonstration
 
 #Path for data
-dataPath = 'Data/Data_Oct2018_v2.csv'
+dataPath = '../data/Data_Oct2018_v2.csv'
 
 #Define the factor names
 factorName = ['World Equities','US Treasuries','Bond Risk Premium','Inflation Protection','Currency Protection']
